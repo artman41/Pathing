@@ -1,0 +1,8 @@
+C:\Users\Tyler\RiderProjects\Pathing\Pathing\bin\Debug\Level\Level.flags
+C:\Users\Tyler\RiderProjects\Pathing\Pathing\bin\Debug\Level\Level.map
+C:\Users\Tyler\RiderProjects\Pathing\Pathing\bin\Debug\Pathing.exe
+C:\Users\Tyler\RiderProjects\Pathing\Pathing\bin\Debug\Pathing.pdb
+C:\Users\Tyler\RiderProjects\Pathing\Pathing\obj\Debug\Pathing.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\RiderProjects\Pathing\Pathing\obj\Debug\Pathing.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\RiderProjects\Pathing\Pathing\obj\Debug\Pathing.exe
+C:\Users\Tyler\RiderProjects\Pathing\Pathing\obj\Debug\Pathing.pdb
